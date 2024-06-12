@@ -110,4 +110,3 @@ O LabEddit Backend é uma API de rede social criada com o objetivo de promover a
 Este projeto foi desenvolvido por:
 
 **Leonardo Canone** : [LinkedIn](https://www.linkedin.com/in/leonardocanone/) | [GitHub](https://github.com/leonardocanone)
-
