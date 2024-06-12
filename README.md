@@ -1,13 +1,16 @@
 # Projeto LabEddit - Backend
 
 ## Documentação da API
-XXX
+https://documenter.getpostman.com/view/30031982/2sA3XMjPei
 
 ## Link do back-end deployado
-XXX
+https://labeddit-backend-kanone.onrender.com
 
 ## Link do front-end deployado
-XXX
+https://labeddit-fullstack-kanone.surge.sh/
+
+## Link do repositório do front-end do projeto LabEddit full stack
+https://github.com/leonardocanone/projeto-labeddit-frontend
 
 ## Contas e senhas já criadas
 Utilize os usuários abaixo caso não queira criar uma nova conta:
@@ -30,7 +33,7 @@ astrodev99
 
 ## Instalação e Inicialização 
 1. Criar as tabelas no arquivo **labedditback.db** que está na raiz do projeto
-2. Ter o **node.js** instalado e rodar o comando **npm install**
+2. Ter o **node.js e o pacote npm** instalados e rodar o comando **npm install**
 3. Criar e configurar o **.env** baseado no **.env.example**
 4. Para rodar o servidor localmente digite o comando **npm run dev**
 5. Completadas as etapas anteriores, você poderá iniciar o front-end
@@ -66,7 +69,7 @@ O LabEddit Backend é uma API de rede social criada com o objetivo de promover a
 - **Recursos de Segurança**: Visando garantir a segurança e a privacidade dos usuários, o LabEddit pussui medidas de segurança como, senhas criptografadas, e também autenticação por meio de tokens JWT.
 
 ## Banco de dados
-![Estrutura do Banco de dados no dbdiagrama.io](./src/images/estrutura-banco-de-dados.png)
+![Estrutura do Banco de dados](./src/images/estrutura-banco-de-dados.png)
 
 ## Lista de requisitos do projeto
 
@@ -104,7 +107,7 @@ O LabEddit Backend é uma API de rede social criada com o objetivo de promover a
 - Documentação README e POSTMAN 
 
 ## Desenvolvedor
-
 Este projeto foi desenvolvido por:
 
 **Leonardo Canone** : [LinkedIn](https://www.linkedin.com/in/leonardocanone/) | [GitHub](https://github.com/leonardocanone)
+
